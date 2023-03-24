@@ -18,7 +18,7 @@
 .body {
     background-color: #BED7D3;
 }
-/* HERO SECTiON  COMBINED WITH ABOUT SECTION*/
+/* HERO SECTiON  */
 .jumbotron {
     background-image: url(https://images.unsplash.com/photo-1639431682289-72b9ebb75895?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80);
     border-radius: 25px;
@@ -37,6 +37,10 @@
 .portrait {
     border-radius: 25px;
     border: 2px solid #FADEDD;
+    margin: 1em;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 .ada-info {
@@ -46,11 +50,29 @@
     color: #35524A;
 }
 
+/* ABOUT SECTION */
+
+.about-section {
+    padding: 0 4em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.about {
+    margin: 1em;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
 /* FEATURE SECTION */
 
-h2 {
-    text-align: center;
-    padding: 1em 0;
+.women-influenced {
+    margin: 1em;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 .card-columns {

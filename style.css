@@ -1,0 +1,86 @@
+
+/* NAVBAR */
+.navbar {
+    background-color: #35524A;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #FADEDD;
+    padding-left: 1em;
+}
+
+.nav-item {
+    color: #FADEDD; 
+}
+
+/* BODY */
+.body {
+    background-color: #BED7D3;
+}
+/* HERO SECTiON  COMBINED WITH ABOUT SECTION*/
+.jumbotron {
+    background-image: url(https://images.unsplash.com/photo-1639431682289-72b9ebb75895?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80);
+    border-radius: 25px;
+    color:#FADEDD;
+    margin: 4em;
+}
+
+.display-4 {
+    font-weight: bold;
+}
+
+.lead {
+    font-weight: bolder;
+}
+
+.portrait {
+    border-radius: 25px;
+    border: 2px solid #FADEDD;
+}
+
+.ada-info {
+    padding: 1em;
+    background-color: #FADEDD;
+    border-radius: 5px;
+    color: #35524A;
+}
+
+/* FEATURE SECTION */
+
+h2 {
+    text-align: center;
+    padding: 1em 0;
+}
+
+.card-columns {
+    padding: 0 4em;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    font-style: italic;
+}
+
+/* CONTACT SECTION */
+
+.form {
+    background-color: #FADEDD;
+    border: 5px solid #A63A50;
+    border-radius: 25px;
+    margin: 2em 4em;
+    padding: 5em;
+    align-items: center;
+    
+}
+
+ h3 {
+    text-align: center;
+    padding: 1em 0;
+ }
+
+
+/* FOOTER */
